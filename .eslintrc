@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "import/no-extraneous-dependencies": false,
+    "consistent-return": "off",
+    "no-restricted-syntax": "off",
+    "no-await-in-loop": "off"
+  },
+  "env": {
+    "jest": true,
+  }
+}
