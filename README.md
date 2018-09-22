@@ -1,4 +1,4 @@
-# Georges exercice
+# exercice
 
 Tests
 ====
